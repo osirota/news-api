@@ -1,5 +1,0 @@
-
-
-const ListItems = ({ items }) => {
-
-}
